@@ -19,14 +19,7 @@ fake one.
 
 ### Loss Functions and Optimizers
 
-I will use the Binary Cross
-Entropy loss:
-
-\begin{align}\ell(x, y) = L = \{l_1,\dots,l_N\}^\top, \quad l_n = - \left[ y_n \cdot \log x_n + (1 - y_n) \cdot \log (1 - x_n) \right]\end{align}
-
-This func provides the calculation of both log components
-in the target func ($log(D(x))$ and
-$log(1-D(G(z)))$).
+I will use the Binary Cross Entropy loss.
 
 Next, I  define real label (1) and the fake label (0). These
 labels will be used when calculating the losses
