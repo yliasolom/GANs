@@ -1,5 +1,5 @@
 <!-- #region -->
-# pytorch-MNIST-CelebA-GAN-DCGAN
+# CelebA-DCGAN
 
 
 * In case you wish  to train using cropped CelebA dataset, you have to change isCrop = False to isCrop = True.
@@ -70,7 +70,7 @@ epoch and pull our noise batch through the generator to see the progress of G tr
 ## Resutls
 
 ### CelebA
-* Generate using fixed noise (fixed_z_)
+* Generate using fixed noise:
 
 <table align='center'>
 <tr align='center'>
