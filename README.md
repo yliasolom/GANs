@@ -1,10 +1,10 @@
 # Stable Diffusion models:
 
-# 1. It's me waved with the hand with the index and middle finger extended - created with Stable Diffusion – ControlNet:
+### 1. It's me waved with the hand with the index and middle finger extended - created with Stable Diffusion – ControlNet:
 
 ![alt text](https://github.com/yliasolom/GANs/blob/diffusion_models/me_waved.png)
 
-# 2. My avatars generated with Stable Diffusion и Dreambooth:
+### 2. My avatars generated with Stable Diffusion и Dreambooth:
 
 - promt1: cute  curl little  anthropomorphic funny female  with face like  MyIdentificator girl wearing shorts, a hat, boots and a pale blue shirt!! tiny!! fully clothed!!! small, short, cute and adorable, character art portrait, matte fantasy painting, deviantart artstation, by jason felix by steve argyle by tyler jacobson by peter mohrbacher, cinema
 
