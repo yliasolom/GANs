@@ -22,7 +22,9 @@
 
 ![](https://github.com/yliasolom/GANs/blob/diffusion_models/generated_avatars/avatar3_SD_DB.png)
 
+### My Initial Photo:
 
+![](https://github.com/yliasolom/GANs/blob/diffusion_models/my_photo_squared.jpg)
 
 
 
