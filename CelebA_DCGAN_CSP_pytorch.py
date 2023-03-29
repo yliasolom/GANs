@@ -52,7 +52,7 @@ def denorm(x):
 
 
 
-#######       how it looks over the Internet:      ####### 
+#######       CSP block:      ####### 
 class CSP(nn.Module):
     def __init__(self, input_dim, output_dim):
         super(CSP, self).__init__()
